@@ -1,6 +1,6 @@
 ---
 title: 'The Joke Tax Chronicles'
-status: 'draft'
+status: 'published'
 author:
   name: 'Rushikesh Shinde'
   picture: 'https://avatars.githubusercontent.com/u/91381429?v=4'

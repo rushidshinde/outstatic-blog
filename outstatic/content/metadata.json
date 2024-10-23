@@ -1,6 +1,6 @@
 {
-  "commit": "886a8bbd03c441203c146c7bdf2969f71f0c4a01",
-  "generated": "2024-10-23T10:30:48.606Z",
+  "commit": "173d51b31c76aae130dbf0177c9b61cb7ecbde95",
+  "generated": "2024-10-23T10:30:58.057Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,8 +37,8 @@
     },
     {
       "__outstatic": {
-        "commit": "886a8bbd03c441203c146c7bdf2969f71f0c4a01",
-        "hash": "1825682808",
+        "commit": "173d51b31c76aae130dbf0177c9b61cb7ecbde95",
+        "hash": "509147765",
         "path": "outstatic/content/posts/the-joke-tax-chronicles.md"
       },
       "author": {
@@ -54,7 +54,7 @@
       "metaTitle": "The Joke Tax Chronicles",
       "publishedAt": "2024-10-23T11:00:42.683Z",
       "slug": "the-joke-tax-chronicles",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "joke",
