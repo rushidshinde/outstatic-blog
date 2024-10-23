@@ -1,18 +1,19 @@
 import React from 'react';
 import Link from "next/link";
 
-export interface BlogCardProps {
-    title: string;
-    description: string;
-    coverImage: string;
-    publishedAt: string;
-    tags: string[];
-    href: string;
+export interface blogCardProps {
+    title: string
+    slug: string
+    description: string
+    coverImage: string
+    publishedAt: string
+    tags:{label:string, value:string}[] | []
 }
 
-export default function BlogCard({title, description, coverImage, publishedAt, href, tags,}:BlogCardProps): JSX.Element {
+export default function BlogCard({title, slug, description, coverImage, publishedAt, tags}:blogCardProps) {
+    if (!title) return null;
     return (
-        <Link href={href} className="group flex flex-col p-4 gap-4">
+        <Link href={`/blog/${slug}`} className="group flex flex-col p-4 gap-4">
             <div className="w-full aspect-video overflow-hidden">
                 <div className="w-full aspect-video group-hover:scale-110 transition-all duration-300 ease-linear bg-center bg-cover bg-no-repeat" style={{backgroundImage: `url(${coverImage})`}}></div>
             </div>
@@ -28,8 +29,8 @@ export default function BlogCard({title, description, coverImage, publishedAt, h
                 </p>
             </div>
             <div className="flex flex-wrap justify-start items-center gap-4">
-                {tags.map(tag => (
-                    <p key={tag} className="inline-block ">{tag}</p>
+                {tags?.map(({label, value}:{label:string, value: string}) => (
+                    <p key={value} className="inline-block ">{label}</p>
                 ))}
             </div>
         </Link>
