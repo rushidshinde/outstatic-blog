@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from "next/link";
+import DateFormatter from "@/components/custom/DateFormatter";
 
 export interface blogCardProps {
     title: string
@@ -18,7 +19,7 @@ export default function BlogCard({title, slug, description, coverImage, publishe
                 <div className="w-full aspect-video group-hover:scale-110 transition-all duration-300 ease-linear bg-center bg-cover bg-no-repeat" style={{backgroundImage: `url(${coverImage})`}}></div>
             </div>
             <div className="">
-                <p className="text-sm">{publishedAt}</p>
+                <p className="text-sm"><DateFormatter dateString={publishedAt}/></p>
             </div>
             <div className="">
                 <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
