@@ -19,7 +19,16 @@
     "tags": {
       "required": true,
       "description": "",
-      "values": [],
+      "values": [
+        {
+          "value": "ai",
+          "label": "AI"
+        },
+        {
+          "value": "digitalMarketing",
+          "label": "Digital Marketing"
+        }
+      ],
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags"
