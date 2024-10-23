@@ -39,6 +39,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Category"
+    },
+    "canonicalUrl": {
+      "required": false,
+      "description": "Please add absolute canonical url path if the url is other than post url",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "CanonicalURL"
     }
   }
 }
