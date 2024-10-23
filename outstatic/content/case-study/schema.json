@@ -1,0 +1,13 @@
+{
+  "title": "case-study",
+  "type": "object",
+  "properties": {
+    "pdfFileUrl": {
+      "required": true,
+      "description": "First add PDF file to public folder and add relative path here",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "PDF file url"
+    }
+  }
+}
