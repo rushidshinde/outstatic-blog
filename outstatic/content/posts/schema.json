@@ -15,13 +15,6 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Meta Description"
-    },
-    "tags": {
-      "required": false,
-      "description": "",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Tags"
     }
   }
 }
