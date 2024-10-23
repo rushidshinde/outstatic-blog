@@ -17,21 +17,12 @@
       "title": "Meta Description"
     },
     "tags": {
-      "required": false,
+      "required": true,
       "description": "",
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
-      "title": "Tags",
-      "values": [
-        {
-          "value": "ai",
-          "label": "AI"
-        },
-        {
-          "value": "digitalMarketing",
-          "label": "Digital Marketing"
-        }
-      ]
+      "title": "Tags"
     },
     "category": {
       "required": true,
