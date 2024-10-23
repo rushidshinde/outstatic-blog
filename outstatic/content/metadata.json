@@ -1,17 +1,18 @@
 {
-  "commit": "cb456a79781ac747f80bb2d5f589a8f71a69a2b6",
-  "generated": "Wed, 23 Oct 2024 08:48:17 GMT",
+  "commit": "0b41335c66ea5ff050019559c68875d9a5b0e5ef",
+  "generated": "2024-10-23T08:51:53.311Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "5d9140f487596f568968eea4b615fed448d513e6",
-        "hash": "1972002485",
+        "commit": "0b41335c66ea5ff050019559c68875d9a5b0e5ef",
+        "hash": "1421550830",
         "path": "outstatic/content/posts/how-ai-is-transforming-digital-marketing.md"
       },
       "author": {
         "name": "Shreshtha Dhatrak",
         "picture": "/images/shreshtha_dhatrak-YwOT.webp"
       },
+      "canonicalUrl": "",
       "category": "Blog",
       "collection": "posts",
       "coverImage": "/images/pawel-czerwinski-kra9zndplra-unsplash-M4NT.webp",

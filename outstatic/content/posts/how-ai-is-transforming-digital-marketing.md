@@ -12,6 +12,7 @@ metaDescription: 'Learn how AI is changing the landscape of digital marketing. O
 tags: [{"label":"AI","value":"ai"},{"label":"Digital Marketing","value":"digitalMarketing"}]
 category: 'Blog'
 publishedDate: '2024-10-23T03:26:11.311Z'
+canonicalUrl: ''
 publishedAt: '2024-10-23T03:26:11.311Z'
 ---
 
