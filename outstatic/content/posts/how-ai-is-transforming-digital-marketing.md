@@ -1,6 +1,6 @@
 ---
 title: 'How Artificial Intelligence is Transforming Digital Marketing'
-status: 'draft'
+status: 'published'
 author:
   name: 'Shreshtha Dhatrak'
   picture: '/images/shreshtha_dhatrak-YwOT.webp'
