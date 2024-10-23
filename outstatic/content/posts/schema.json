@@ -30,6 +30,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Category"
+    },
+    "publishedDate": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Published date"
     }
   }
 }
