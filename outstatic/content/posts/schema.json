@@ -22,7 +22,16 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "ai",
+          "label": "AI"
+        },
+        {
+          "value": "digitalMarketing",
+          "label": "Digital Marketing"
+        }
+      ]
     },
     "category": {
       "required": true,
