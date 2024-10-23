@@ -1,6 +1,6 @@
 {
-  "commit": "946a90f47e6e6b5c576455c82a975c41db819d94",
-  "generated": "Wed, 23 Oct 2024 10:31:25 GMT",
+  "commit": "495e4d85f24101a10185c6ce1b2f5f8cbc2de649",
+  "generated": "2024-10-23T10:41:27.370Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,8 +36,8 @@
     },
     {
       "__outstatic": {
-        "commit": "153671c53d519d8492d46a05e26bf5a2108b1133",
-        "hash": "1421550830",
+        "commit": "495e4d85f24101a10185c6ce1b2f5f8cbc2de649",
+        "hash": "19957851",
         "path": "outstatic/content/posts/how-ai-is-transforming-digital-marketing.md"
       },
       "author": {
