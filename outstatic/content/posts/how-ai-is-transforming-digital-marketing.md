@@ -11,7 +11,7 @@ metaTitle: 'How AI is Transforming Digital Marketing | AI in Marketing'
 metaDescription: 'Learn how AI is changing the landscape of digital marketing. Our blog covers innovative AI applications that boost efficiency & effectiveness in marketing efforts.'
 tags: [{"label":"AI","value":"ai"},{"label":"Digital Marketing","value":"digitalMarketing"}]
 category: 'Blog'
-publishedDate: 'Wed Oct 23 2024 08:33:35 GMT+0530 (India Standard Time)'
+publishedDate: '2024-10-23T03:26:11.311Z'
 publishedAt: '2024-10-23T03:26:11.311Z'
 ---
 
