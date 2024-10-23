@@ -1,6 +1,6 @@
 {
-  "commit": "173d51b31c76aae130dbf0177c9b61cb7ecbde95",
-  "generated": "2024-10-23T10:30:58.057Z",
+  "commit": "ccfb49635757a352b6ce9e387cf48886ec8ed748",
+  "generated": "2024-10-23T10:31:17.494Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,7 +37,7 @@
     },
     {
       "__outstatic": {
-        "commit": "173d51b31c76aae130dbf0177c9b61cb7ecbde95",
+        "commit": "ccfb49635757a352b6ce9e387cf48886ec8ed748",
         "hash": "509147765",
         "path": "outstatic/content/posts/the-joke-tax-chronicles.md"
       },
