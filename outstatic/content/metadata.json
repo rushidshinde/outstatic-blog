@@ -1,6 +1,6 @@
 {
-  "commit": "0b41335c66ea5ff050019559c68875d9a5b0e5ef",
-  "generated": "2024-10-23T08:51:53.311Z",
+  "commit": "886a8bbd03c441203c146c7bdf2969f71f0c4a01",
+  "generated": "2024-10-23T10:30:48.606Z",
   "metadata": [
     {
       "__outstatic": {
@@ -34,6 +34,38 @@
         }
       ],
       "title": "How Artificial Intelligence is Transforming Digital Marketing"
+    },
+    {
+      "__outstatic": {
+        "commit": "886a8bbd03c441203c146c7bdf2969f71f0c4a01",
+        "hash": "1825682808",
+        "path": "outstatic/content/posts/the-joke-tax-chronicles.md"
+      },
+      "author": {
+        "name": "Rushikesh Shinde",
+        "picture": "https://avatars.githubusercontent.com/u/91381429?v=4"
+      },
+      "canonicalUrl": "",
+      "category": "Blog",
+      "collection": "posts",
+      "coverImage": "/images/shubham-dhage-nspqv-wszyy-unsplash-ExMz.webp",
+      "description": "Once upon a time, in a far-off land, there was a very lazy king who spent all day lounging on his throne. One day, his advisors came to him with a problem: the kingdom was running out of money.",
+      "metaDescription": "The king thought long and hard, and finally came up with a brilliant plan: he would tax the jokes in the kingdom.",
+      "metaTitle": "The Joke Tax Chronicles",
+      "publishedAt": "2024-10-23T11:00:42.683Z",
+      "slug": "the-joke-tax-chronicles",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "joke",
+          "value": "joke"
+        },
+        {
+          "label": "plan",
+          "value": "plan"
+        }
+      ],
+      "title": "The Joke Tax Chronicles"
     }
   ]
 }

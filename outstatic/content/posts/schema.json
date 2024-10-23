@@ -27,6 +27,14 @@
         {
           "value": "digitalMarketing",
           "label": "Digital Marketing"
+        },
+        {
+          "value": "joke",
+          "label": "joke"
+        },
+        {
+          "value": "plan",
+          "label": "plan"
         }
       ],
       "fieldType": "Tags",
