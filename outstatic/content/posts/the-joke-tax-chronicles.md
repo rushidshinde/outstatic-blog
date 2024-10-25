@@ -25,6 +25,8 @@ The king thought long and hard, and finally came up with [**a brilliant plan**](
 
 ### The Joke Tax
 
+[![My Img](/images/banner_bg_desk-QxNz.webp)](/blog/how-ai-is-transforming-digital-marketing)
+
 The king's subjects were not amused. They grumbled and complained, but the king was firm:
 
 - 1st level of puns: 5 gold coins
