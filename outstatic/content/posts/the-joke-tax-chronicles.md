@@ -19,7 +19,7 @@ Once upon a time, in a far-off land, there was a very lazy king who spent all da
 
 ## The King's Plan
 
-The king thought long and hard, and finally came up with [**a brilliant plan**](https://ui.shadcn.com/docs/components/typography#): he would tax the jokes in the kingdom.
+The king thought long and hard, and finally came up with [**a brilliant plan**](/docs/components/typography): he would tax the jokes in the kingdom.
 
 > *"After all," he said, "everyone enjoys a good joke, so it's only fair that they should pay for the privilege."*
 
